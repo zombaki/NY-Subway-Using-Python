@@ -1,0 +1,1 @@
+conn=mysql.connector.connect(user='root',password='gadha',host='localhost',database='padb')
